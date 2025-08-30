@@ -16,10 +16,10 @@ The report includes interactive dashboards and visualizations about:
 <img width="1313" height="732" alt="Στιγμιότυπο οθόνης 2025-08-31 002012" src="https://github.com/user-attachments/assets/1fb281f6-e217-4f36-ad32-e501b4b5c743" />
 
 
--**	Number of Greek Men and Women Travelling Domestic & Abroad**
+- **	Number of Greek Men and Women Travelling Domestic & Abroad**
   The Donut Chart & Cards shows the totals travellers and proportion of Greek men and women travelling Domestic & abroad, giving an immediate picture of the gender distribution of travellers.
  	
- 	*Note: Women travel at a slightly higher rate than men.*
+ 	 *Note: Women travel at a slightly higher rate than men*
  
 -	**Monthly Travel Trends**
 
@@ -28,6 +28,7 @@ The report includes interactive dashboards and visualizations about:
   *Note: August is the peak month for travel, likely due to summer vacations.*
  	
 -	**Top 5 abroad destinations for Greek**
+  
   A map with filtered data and an accompanying table displaying the top five countries abroad most visited by Greek travellers, providing a geographic perspective on travel preferences.
 
 
