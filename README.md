@@ -17,6 +17,7 @@ The report includes interactive dashboards and visualizations about:
 
 
 -**Number of Greek Men and Women Travelling Domestic & Abroad**
+
    The Donut Chart & Cards shows the totals travellers and proportion of Greek men and women travelling Domestic & abroad, giving an immediate picture of the gender distribution of travellers.
  	
   *Note: Women travel at a slightly higher rate than men*
