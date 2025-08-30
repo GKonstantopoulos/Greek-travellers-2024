@@ -7,6 +7,7 @@ The purpose of this project is to highlight the travel trends of Greeks in 2024 
 
 
 🔎 Overview First Page
+
 The report includes interactive dashboards and visualizations about:
 
 
@@ -29,6 +30,7 @@ The report includes interactive dashboards and visualizations about:
   
 
  🔎 Overview Second Page
+ 
  The report includes interactive dashboards and visualizations about:
  
 
@@ -66,7 +68,7 @@ The Line Chart and Pie Charts break down the modes of transportation (e.g., car,
 🌐 Data source 
 - Data sourced from ELSTAT (Hellenic Statistical Authority).
 
-👤 Created by *[Georgios Konstantopoulos]*
+👤 Created by Georgios Konstantopoulos
 
 
 
