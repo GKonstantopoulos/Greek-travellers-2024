@@ -9,7 +9,9 @@ The purpose of this project is to highlight the travel trends of Greeks in 2024 
 🔎 Overview First Page
 The report includes interactive dashboards and visualizations about:
 
+
 <img width="1313" height="732" alt="Στιγμιότυπο οθόνης 2025-08-31 002012" src="https://github.com/user-attachments/assets/1fb281f6-e217-4f36-ad32-e501b4b5c743" />
+
 
 -	Number of Greek Men and Women Travelling Domestic & Abroad
   The Donut Chart & Cards shows the totals travellers and proportion of Greek men and women travelling Domestic & abroad, giving an immediate picture of the gender distribution of travellers.
@@ -20,12 +22,16 @@ The report includes interactive dashboards and visualizations about:
  	
 -	Top 5 abroad destinations for Greek
   A map with filtered data and an accompanying table displaying the top five countries abroad most visited by Greek travellers, providing a geographic perspective on travel preferences.
- 	
+
+
+  
 
  🔎 Overview Second Page
  The report includes interactive dashboards and visualizations about:
+ 
 
- <img width="1313" height="732" alt="Στιγμιότυπο οθόνης 2025-08-31 002012" src="https://github.com/user-attachments/assets/8de4debe-a6d8-4def-8834-551df4938554" />
+ <img width="1316" height="742" alt="Στιγμιότυπο οθόνης 2025-08-31 002036" src="https://github.com/user-attachments/assets/66b2af88-4073-4ed9-a646-4d70cd670a24" />
+ 
 
  -Travel by Age Group 
  The Clustered Column Chart compares different age groups, showing how many individuals from each group travel domestically and abroad, offering valuable insight into travel preferences by age.
@@ -72,4 +78,4 @@ The Line Chart and Pie Charts break down the modes of transportation (e.g., car,
 
 
 
-<img width="1316" height="742" alt="Στιγμιότυπο οθόνης 2025-08-31 002036" src="https://github.com/user-attachments/assets/66b2af88-4073-4ed9-a646-4d70cd670a24" />
+
