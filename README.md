@@ -5,7 +5,7 @@ Power BI dashboard based on data from ELSTAT (Hellenic Statistical Authority) ab
 ## 🎯 Goal
 The purpose of this project is to highlight the travel trends of Greeks in 2024 using **data visualization** and **Business Intelligence** tools.  
 
-**Interactive image buttons with hover effects: Clicking on the images of the man and woman displays the corresponding results from Power BI.**
+*Interactive image buttons with hover effects: Clicking on the images of the man and woman displays the corresponding results from Power BI.*
 
 
 🔎 Overview First Page
