@@ -10,7 +10,7 @@ The purpose of this project is to highlight the travel trends of Greeks in 2024 
 
 The report includes interactive dashboards and visualizations about:
 
-*Interactive image buttons with hover effects: Clicking on the images & buttons of the man and woman displays the corresponding results.*
+*Interactive image buttons with hover effects: Clicking on the images or buttons of the man and woman displays the corresponding results.*
 *Interactive  button to change pages.*
 
 
