@@ -1,6 +1,5 @@
 ## 📊 **Number of Greek tourists in 2024 who undertook at least one personal trip involving one or more overnight stays** ##
 
-Power BI dashboard based on data from ELSTAT (Hellenic Statistical Authority) about Greek travellers in 2024
 
 ## 🎯 Goal
 The purpose of this project is to highlight the travel trends of Greeks in 2024 using **data visualization** and **Business Intelligence** tools.  
