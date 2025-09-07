@@ -13,6 +13,7 @@ The report includes interactive dashboards and visualizations about:
 *Interactive image buttons with hover effects: Clicking on the images of the man and woman displays the corresponding results.*
 *Interactive  button to change pages.*
 
+<img width="1312" height="736" alt="Στιγμιότυπο οθόνης 2025-09-07 195141" src="https://github.com/user-attachments/assets/6bdffc25-3e95-4b10-b694-27172698601b" />
 
 <img width="1313" height="732" alt="Στιγμιότυπο οθόνης 2025-08-31 002012" src="https://github.com/user-attachments/assets/1fb281f6-e217-4f36-ad32-e501b4b5c743" />
 
