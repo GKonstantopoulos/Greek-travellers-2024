@@ -14,7 +14,9 @@ The report includes interactive dashboards and visualizations about:
 *Interactive  button to change pages.*
 
 
-<img width="1312" height="734" alt="Στιγμιότυπο οθόνης 2025-09-11 183032" src="https://github.com/user-attachments/assets/e581edde-08e2-4d9b-ae5e-f34b5dd179ac" />
+<img width="1305" height="729" alt="Στιγμιότυπο οθόνης 2025-09-11 184011" src="https://github.com/user-attachments/assets/dcdf9289-86a3-4882-b5fe-08b01c072fd6" />
+
+
 
 
 
